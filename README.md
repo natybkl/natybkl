@@ -8,7 +8,7 @@ I'm a passionate software engineer with expertise in both backend development an
 **Areas of Interest:** LLMs, Prompt Engineering, React, DSA
 
 **Ask me about:** ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+ ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  ![Flutter](https://img.shields.io/badge/-flutter-blue?style=flat-square&logo=flutter)
 
 ## Contact
 

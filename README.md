@@ -7,7 +7,7 @@ I'm Natnael, a passionate software engineer with expertise in both full-stack de
 ## Contact
 
 * [![Linkedin Badge](https://img.shields.io/badge/-Natnael_Bekele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natnael-bekele-329295207/)](https://www.linkedin.com/in/natnael-bekele-329295207/)
-* [![Gmail Badge](https://img.shields.io/badge/-nathybekele6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natnaelbekele142@gmail.com)](mailto:natnaelbekele142@gmail.com)
+* [![Gmail Badge](https://img.shields.io/badge/-natnaelbekele142@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natnaelbekele142@gmail.com)](mailto:natnaelbekele142@gmail.com)
 * [![Leetcode Badge](https://img.shields.io/badge/-Natnael_Bekele-gree?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/natnaelbekele142/)](https://leetcode.com/natnaelbekele142/)
 
 ## Language & Technologies

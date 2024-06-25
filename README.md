@@ -1,8 +1,9 @@
 ### Hey there 👋
 
-I'm Natnael, a passionate software engineer with expertise in both full-stack development and data analysis. I thrive in environments where I can leverage my technical skills, strong ownership mindset, and excellent communication and collaboration abilities to bring innovative solutions to life. Notably, I successfully passed both **Google** and **Square**'s interviews for the 2022 summer internships.
+I'm Natnael, a mid-senior software engineer with 2+ years of experience in full-stack development. I've led teams and developed features that drive real impact in products by increasing user engagement and active usage through various optimization strategies. Notably, I successfully passed both Google and Square’s interviews for the 2022 summer internships.
 
-**I love working on projects utilizing:** LLMs, Python, Data Analysis tools, Prompt Engineering, React.js/Next.js/Node.js, Blockchain/Web3 
+
+**I love working on projects utilizing:** LLMs, Python, and React.js/Next.js/Node.js 
 
 ## Contact
 

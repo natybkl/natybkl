@@ -1,14 +1,10 @@
 ### Hey there 👋
 
-I'm Natnael, a mid-senior software engineer with 2+ years of experience in full-stack development. I've led teams and developed features that drive real impact in products by increasing user engagement and active usage through various optimization strategies. Notably, I successfully passed both Google and Square’s interviews for the 2022 summer internships.
-
-
-**I love working on projects utilizing:** LLMs, Python, and React.js/Next.js/Node.js 
+I'm Natnael, a mid-senior software engineer with 3+ years of experience in full-stack development. **I love working on projects utilizing:** LLMs, Python, Django, and React
 
 ## Contact
 
 * [![Linkedin Badge](https://img.shields.io/badge/-Natnael_Bekele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natnael-bekele-329295207/)](https://www.linkedin.com/in/natnael-bekele-329295207/)
-* [![Gmail Badge](https://img.shields.io/badge/-natnaelbekele142@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natnaelbekele142@gmail.com)](mailto:natnaelbekele142@gmail.com)
 * [![Leetcode Badge](https://img.shields.io/badge/-Natnael_Bekele-gree?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/natnaelbekele142/)](https://leetcode.com/natnaelbekele142/)
 
 ## Language & Technologies

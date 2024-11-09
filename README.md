@@ -1,11 +1,7 @@
 ### Hey there 👋
 
-I'm Natnael, a mid-senior software engineer with 3+ years of experience in full-stack development.
+I'm a mid-senior software engineer with 3+ years of experience in full-stack development.
 
-## Contact
-
-* [![Linkedin Badge](https://img.shields.io/badge/-Natnael_Bekele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natnael-bekele-329295207/)](https://www.linkedin.com/in/natnael-bekele-329295207/)
-* [![Leetcode Badge](https://img.shields.io/badge/-Natnael_Bekele-gree?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.com/natnaelbekele142/)](https://leetcode.com/natnaelbekele142/)
 
 ## Language & Technologies
 
